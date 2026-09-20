@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="220" alt="Ethean" src="https://github.com/user-attachments/assets/dfd84be4-8acf-441d-bada-8329b99c8c27" />
+<img width="220" alt="ethean-logo" src="https://github.com/user-attachments/assets/9c9bf645-a633-456c-bbdc-22cb4d9fda2c" />
 </div>
 
 # Ethean
